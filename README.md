@@ -80,10 +80,10 @@ This project contains practical implementations and solutions for Digital Image 
 
 The following PDF files contain detailed assignment specifications and solutions:
 
-- **Assignment_1.pdf** - Foundational concepts and basic image processing
-- **Assignment_2.pdf** - Advanced filtering and transformations
-- **Assignment_3.pdf** - Video specifications and calculations
-- **Assignment_4.pdf** - Complex image processing applications
+- **01_Image_Fundamentals_GIF_Matching.pdf** - Image basics, color spaces, and GIF frame extraction
+- **02_Image_Enhancement_Transformations.pdf** - Logarithmic and gamma transformations, contrast enhancement
+- **03_Video_Specifications_HDTV.pdf** - HDTV resolution, storage calculations, and video format specifications
+- **04_Spatial_Filtering_Analysis.pdf** - Spatial filtering, convolution, edge detection, and filter design
 
 ---
 
